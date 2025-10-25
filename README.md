@@ -5,7 +5,7 @@ Este proyecto tiene como objetivo automatizar el flujo de **login** en el sitio 
 La automatización valida que un usuario con credenciales válidas pueda acceder correctamente a la página de inventario, comprobando tanto la redirección a `/inventory.html` como la presencia del texto “Products” o “Swag Labs”.
 
 ## 🧰 Tecnologías utilizadas
-- **Python 3.x**  
+- **Python**  
 - **Pytest** – Framework de testing  
 - **Selenium WebDriver** – Automatización de interacción con navegador  
 - **Webdriver-Manager** – Gestión automática del driver de Chrome  
